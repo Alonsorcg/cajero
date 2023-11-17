@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eee;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: #081b29;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
